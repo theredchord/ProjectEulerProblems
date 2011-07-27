@@ -1,0 +1,2 @@
+c:\users\d-desktop\documents\visual studio 2010\Projects\ProjectEulerProblem1\ProjectEulerProblem1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\d-desktop\documents\visual studio 2010\Projects\ProjectEulerProblem1\ProjectEulerProblem1\obj\x86\Debug\ProjectEulerProblem1.exe
