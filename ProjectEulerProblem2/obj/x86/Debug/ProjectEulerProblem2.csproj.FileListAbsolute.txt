@@ -1,0 +1,5 @@
+C:\Users\D-Desktop\Documents\Visual Studio 2010\Projects\ProjectEulerProblem1\ProjectEulerProblem2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\D-Desktop\Documents\Visual Studio 2010\Projects\ProjectEulerProblem1\ProjectEulerProblem2\bin\Debug\ProjectEulerProblem2.exe
+C:\Users\D-Desktop\Documents\Visual Studio 2010\Projects\ProjectEulerProblem1\ProjectEulerProblem2\bin\Debug\ProjectEulerProblem2.pdb
+C:\Users\D-Desktop\Documents\Visual Studio 2010\Projects\ProjectEulerProblem1\ProjectEulerProblem2\obj\x86\Debug\ProjectEulerProblem2.exe
+C:\Users\D-Desktop\Documents\Visual Studio 2010\Projects\ProjectEulerProblem1\ProjectEulerProblem2\obj\x86\Debug\ProjectEulerProblem2.pdb

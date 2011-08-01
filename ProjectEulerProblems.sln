@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEulerProblem1", "ProjectEulerProblem1\ProjectEulerProblem1.csproj", "{B6E2C852-CA61-4592-B7D4-D15EAE966557}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEulerProblem2", "ProjectEulerProblem2\ProjectEulerProblem2.csproj", "{D32CD58D-8C71-4A75-9C0C-9EE9D8958C50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{B6E2C852-CA61-4592-B7D4-D15EAE966557}.Debug|x86.Build.0 = Debug|x86
 		{B6E2C852-CA61-4592-B7D4-D15EAE966557}.Release|x86.ActiveCfg = Release|x86
 		{B6E2C852-CA61-4592-B7D4-D15EAE966557}.Release|x86.Build.0 = Release|x86
+		{D32CD58D-8C71-4A75-9C0C-9EE9D8958C50}.Debug|x86.ActiveCfg = Debug|x86
+		{D32CD58D-8C71-4A75-9C0C-9EE9D8958C50}.Debug|x86.Build.0 = Debug|x86
+		{D32CD58D-8C71-4A75-9C0C-9EE9D8958C50}.Release|x86.ActiveCfg = Release|x86
+		{D32CD58D-8C71-4A75-9C0C-9EE9D8958C50}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
